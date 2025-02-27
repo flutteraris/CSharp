@@ -1,12 +1,12 @@
 using UnityEngine;
 
-public class HelloWorldPractice : MonoBehaviour
+public class WhiteSpace : MonoBehaviour
 {
     void Start()
     {
-        Debug.Log("Hello");
+        Debug.Log("c#");
+        Debug.Log("c#");
         
-
     }
 
 
@@ -15,7 +15,3 @@ public class HelloWorldPractice : MonoBehaviour
         
     }
 }
-
-/*
-[output]
- */ 

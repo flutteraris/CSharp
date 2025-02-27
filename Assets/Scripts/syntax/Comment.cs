@@ -1,21 +1,15 @@
 using UnityEngine;
 
-public class HelloWorldPractice : MonoBehaviour
+public class Comment  : MonoBehaviour
 {
     void Start()
     {
-        Debug.Log("Hello");
         
-
     }
 
-
+    
     void Update()
     {
         
     }
 }
-
-/*
-[output]
- */ 

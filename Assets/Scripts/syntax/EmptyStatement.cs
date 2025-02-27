@@ -1,15 +1,13 @@
 using UnityEngine;
 
-public class HelloWorldPractice : MonoBehaviour
+public class EmptyStatement : MonoBehaviour
 {
     void Start()
     {
-        Debug.Log("Hello");
         
-
     }
 
-
+    
     void Update()
     {
         
@@ -17,5 +15,7 @@ public class HelloWorldPractice : MonoBehaviour
 }
 
 /*
-[output]
- */ 
+C# 기본 문법
+- syntax : 반드시 지켜야할 규칙
+- 스타일
+*/
